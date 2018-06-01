@@ -6,3 +6,4 @@ This is my file
  
 =======
 i made a change>>>>>>> f9d7ac551e31cef410bc2ec696dcfa0ce5cb0a06
+change
